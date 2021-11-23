@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "name": "simple-crud-api",
+  "description": "init",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaryaYa/simple-crud-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaryaYa/simple-crud-api/issues"
+  },
+  "homepage": "https://github.com/DaryaYa/simple-crud-api#readme"
+}
